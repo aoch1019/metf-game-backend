@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  init_price: 1.5
+  stock: one
+  etf: one
+
+two:
+  init_price: 1.5
+  stock: two
+  etf: two
